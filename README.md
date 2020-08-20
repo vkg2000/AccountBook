@@ -1,7 +1,7 @@
 # AccountBook
 Desktop Application for accounting that helps  keep track of daily transactions by digitizing ledger account book.\
 <br>
-<img src="readme_images/main.png"/>
+<img src="readme_images/main.png">
 
 ## Brief Description
 The project is a desktop application made usage of Java Swing Library for Graphical User Interface (GUI) and MySQL\
@@ -15,7 +15,7 @@ transaction. Final Balance of any customer can be seen at the bottom of transact
 Number of registered customer is highlighted at the top-right corner.
 <br>
 <br>
-<img src="readme_images/filled.png"/>
+<img src="readme_images/filled.png">
 
 
 #### License
