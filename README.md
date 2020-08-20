@@ -14,7 +14,7 @@ Final Balance of any customer can be seen at the bottom of transaction table.\
 Number of registered customer is highlighted at the top-right corner.
 <br>
 <br>
-<img src="readme_images/filling.png"/>
+<img src="readme_images/filled.png"/>
 
 
 #### License
