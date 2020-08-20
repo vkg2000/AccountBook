@@ -10,8 +10,6 @@ Desktop Application for accounting that helps  keep track of daily transactions 
 
 
 
-#### Contributing
-Create issues with appropriate tags or contact us.
 
 #### License
 
